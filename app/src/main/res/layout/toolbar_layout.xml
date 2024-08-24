@@ -21,7 +21,7 @@
             app:title="@string/appbar"
             app:titleCentered="true"
             app:titleTextColor="@color/black"
-            app:menu="@menu/drawer_menu">
+            app:menu="@menu/appbar_menu">
 
 
 
